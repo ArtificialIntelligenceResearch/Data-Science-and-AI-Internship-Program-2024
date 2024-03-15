@@ -171,7 +171,7 @@ The following criteria will be used to evaluate submissions comprehensively. Eac
 ## 5. Submission Guidelines
 
 ### 5.1 Submission Deadline
-Participants must submit their projects by [insert specific deadline here, e.g., "December 1, 2024, 23:59 UTC"] to be considered for evaluation.
+Participants must submit their projects by April 10, 2024, to be considered for evaluation.
 
 ### 5.2 Submission Format
 Your submission should include:
